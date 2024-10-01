@@ -1,6 +1,7 @@
 # PhotoSorter
 
 A GUI application to sort and copy photos using OpenAI's CLIP model.
+This is my first working app ever! Coded with ChatGPT 4o.
 
 ## Description
 
