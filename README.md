@@ -177,8 +177,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
+- **Author**: Hallett Visual and ChatGPT
+- **Email**: hello@hallettvisual.com
 
 ---
 
